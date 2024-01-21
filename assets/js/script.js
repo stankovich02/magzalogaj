@@ -64,7 +64,7 @@ $('#overlay').hide();
 }
 });
 });
-if(window.location.pathname == '/index.html' || window.location.pathname == '/magicnizalogaj/index.html' || window.location.pathname == '/magicnizalogaj/'){
+if(window.location.pathname == '/index.html' || window.location.pathname == '/magzalogaj/index.html' || window.location.pathname == '/magzalogaj/'){
   if(window.innerWidth > 1150){
     let whyuss = document.querySelectorAll('.why-order-us-item');
     whyuss.forEach(whyus => {
@@ -237,7 +237,7 @@ if(window.location.pathname == '/index.html' || window.location.pathname == '/ma
   },
   });
 }
-if(window.location.pathname == '/galerija.html' || window.location.pathname == '/magicnizalogaj/galerija.html'){
+if(window.location.pathname == '/galerija.html' || window.location.pathname == '/magzalogaj/galerija.html'){
   $(document).ready(function(){
     var gallery = $('.gallery a').simpleLightbox({
       // default source attribute
@@ -375,7 +375,7 @@ for(let i=1;i<21;i++){
   `
 }
 }
-if(window.location.pathname == '/cenovnik.html' || window.location.pathname == '/magicnizalogaj/cenovnik.html'){
+if(window.location.pathname == '/cenovnik.html' || window.location.pathname == '/magzalogaj/cenovnik.html'){
   let pricingcont = document.querySelector('.pricing-container');
   pricingcont.innerHTML = '';
   const BASEURL = "assets/data/";
