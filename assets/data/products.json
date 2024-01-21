@@ -1,0 +1,331 @@
+[
+    {
+      "name":"Kifle - slane prazne, posne",
+      "price":"700",
+      "description": "40 komada u 1kg",
+      "imgpath": "assets/images/kiflice-slane.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Kifle - sa sirom",
+      "price":"750",
+      "description": "35 komada u 1kg",
+      "imgpath": "assets/images/kiflice-sa-sirom.png",
+      "category":"slano"
+    },
+    {
+      "name":"Kifle - sa džemom , kremom",
+      "price":"750",
+      "description": "35 komada u 1kg",
+      "imgpath": "assets/images/kiflice-slatke.png",
+      "category":"slatko"
+    },
+    {
+      "name":"Mini pice",
+      "price":"1000",
+      "description": "35 komada u 1kg",
+      "imgpath": "assets/images/mini-pice.png",
+      "category":"slano"
+    },
+    {
+      "name":"Štapići sa slaninom",
+      "price":"1000",
+      "description": "40 komada u 1kg",
+      "imgpath": "assets/images/stapici-slanina.png",
+      "category":"slano"
+    },
+    {
+      "name":"Štapići - mak , susam",
+      "price":"700",
+      "description": "60 komada u 1kg",
+      "imgpath": "assets/images/stapici-mak.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Štapići - paprika , susam",
+      "price":"700",
+      "description": "60 komada u 1kg",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Štapići - ajvar , kečap",
+      "price":"950",
+      "description": "1kg",
+      "imgpath": "assets/images/stapici-ajvar.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slavski kolač",
+      "price":"1000",
+      "description": "1 komad",
+      "imgpath": "assets/images/slavski-kolac.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slavski kolač - manji",
+      "price":"800",
+      "description": "1 komad",
+      "imgpath": "assets/images/slavski-kolac-manji.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Hrskave rolnice - kikiriki",
+      "price":"900",
+      "description": "1kg",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Krekeri",
+      "price":"850",
+      "description": "1kg",
+      "imgpath": "assets/images/krekeri.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slane kuglice - kikiriki",
+      "price":"900",
+      "description": "1kg",
+      "imgpath": "assets/images/kuglice-kikiriki.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slane kuglice - maslina",
+      "price":"900",
+      "description": "1kg",
+      "imgpath": "assets/images/kuglice-maslina.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slani rolati - klasik , ajvar , spanać , grisine , mak",
+      "price":"1000",
+      "description": "Ceo rolat",
+      "imgpath": "assets/images/slani-rolati.png",
+      "category":"slano"
+    },
+    {
+      "name":"Rolat - šampinjoni - posan",
+      "price":"900",
+      "description": "Ceo rolat",
+      "imgpath": "assets/images/rolat-sampinjoni.png",
+      "category":"slano , posno"
+    },
+ {
+      "name":"Pica rolat",
+      "price":"1000",
+      "description": "Ceo rolat",
+      "imgpath": "assets/images/pica-rolat.png",
+      "category":"slano"
+    },
+    {
+      "name":"Kanapei",
+      "price":"1300",
+      "description": "40 komada",
+      "imgpath": "assets/images/kanapei.png",
+      "category":"slano"
+    },
+    {
+      "name":"Rol viršle",
+      "price":"900",
+      "description": "40 komada u 1kg",
+      "imgpath": "assets/images/rol-virsle.png",
+      "category":"slano"
+    },
+    {
+      "name":"Mini sendviči",
+      "price":"900",
+      "description": "25 komada u 1kg",
+      "imgpath": "assets/images/mini-sendvici.png",
+      "category":"slano"
+    },
+    {
+      "name":"Kroasani krem",
+      "price":"900",
+      "description": "25-27 komada u 1kg",
+      "imgpath": "assets/images/kroasani-krem.png",
+      "category":"slatko"
+    },
+    {
+      "name":"Kroasani nutela",
+      "price":"1000",
+      "description": "25-27 komada u 1kg",
+      "imgpath": "assets/images/kroasani-nutela.png",
+      "category":"slatko"
+    },
+    {
+      "name":"Pužići sa sirom",
+      "price":"800",
+      "description": "60 komada u 1kg",
+      "imgpath": "assets/images/puzici-sa-sirom.png",
+      "category":"slano"
+    },
+    {
+      "name":"Projice",
+      "price":"850",
+      "description": "22 komada u 1kg",
+      "imgpath": "assets/images/projice.png",
+      "category":"slano"
+    },
+    {
+      "name":"Projice - oblik",
+      "price":"900",
+      "description": "48 komada u 1kg",
+      "imgpath": "assets/images/projice-oblik.png",
+      "category":"slano"
+    },
+    {
+      "name":"Pitice sa sirom",
+      "price":"850",
+      "description": "30 komada u 1kg",
+      "imgpath": "assets/images/pitice-sa-sirom.png",
+      "category":"slano"
+    },
+    {
+      "name":"Pitice posne - soja , pečurke , krompir , kupus",
+      "price":"850",
+      "description": "30 komada u 1kg",
+      "imgpath": "assets/images/pitice-posne.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Pita sa viršlom",
+      "price":"900",
+      "description": "1kg",
+      "imgpath": "assets/images/pita-virsla.png",
+      "category":"slano"
+    },
+    {
+      "name":"Kroasani - šunka / kačkavalj , kulen / kačkavalj , pica",
+      "price":"900",
+      "description": "25-30 komada u 1kg",
+      "imgpath": "assets/images/kroasani.png",
+      "category":"slano"
+    },
+    {
+      "name":"Krofne",
+      "price":"500",
+      "description": "10 komada",
+      "imgpath": "assets/images/krofne.png",
+      "category":"slatko"
+    },
+    {
+      "name":"Princes krofne",
+      "price":"1500",
+      "description": "30 komada",
+      "imgpath": "assets/images/princes-krofne.png",
+      "category":"slatko"
+    },
+    {
+      "name":"Ruske kape",
+      "price":"1600",
+      "description": "35 komada",
+      "imgpath": "assets/images/ruske-kape.png",
+      "category":"slatko"
+    },
+    {
+      "name":"Pogačice sa prezlama",
+      "price":"900",
+      "description": "60 komada u 1kg",
+      "imgpath": "assets/images/pogacice-prezle.png",
+      "category":"slano"
+    },
+    {
+      "name":"Tortilje",
+      "price":"1000",
+      "description": "oko 25 komada u 1kg",
+      "imgpath": "assets/images/tortilje.png",
+      "category":"slano"
+    },
+    {
+      "name":"Slana torta - posna",
+      "price":"1800",
+      "description": "Cela torta",
+      "imgpath": "assets/images/slana-torta.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slana oblanda",
+      "price":"2000",
+      "description": "50 parčeta",
+      "imgpath": "assets/images/slana-oblanda.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Posna slana bajadera",
+      "price":"1900",
+      "description": "Cela bajadera",
+      "imgpath": "assets/images/bajadera.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Rozen torta",
+      "price":"4000",
+      "description": "Cela torta",
+      "imgpath": "assets/images/rozen-torta.png",
+      "category":"slatko , posno"
+    },
+    {
+      "name":"Torta medeno srce",
+      "price":"4000",
+      "description": "Cela torta",
+      "imgpath": "assets/images/medeno-srce.png",
+      "category":"slatko , posno"
+    },
+    {
+      "name":"Čokoladna torta",
+      "price":"4000",
+      "description": "Cela torta",
+      "imgpath": "assets/images/coko-torta.png",
+      "category":"slatko , posno"
+    },
+    {
+      "name":"Oblanda - posna",
+      "price":"2000",
+      "description": "Cela oblanda",
+      "imgpath": "assets/images/oblanda-posna.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slani rolat - posni",
+      "price":"1000",
+      "description": "Ceo rolat",
+      "imgpath": "assets/images/rolat-posni.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slavsko žito",
+      "price":"800",
+      "description": "1kg",
+      "imgpath": "assets/images/zito.png",
+      "category":"posno"
+    },
+    {
+      "name":"Zalivena pita sa sojom",
+      "price":"850",
+      "description": "1kg",
+      "imgpath": "assets/images/zalivena-pita-soja.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Rozen kocke - mak, orasi, keks",
+      "price":"1500",
+      "description": "1kg",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Slani krekeri sa semenkama",
+      "price":"700",
+      "description": "1kg",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
+    },
+    {
+      "name":"Rolat sa sojom",
+      "price":"900",
+      "description": "Ceo rolat",
+      "imgpath": "assets/images/nopic.png",
+      "category":"slano , posno"
+    }
+  ]

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+	<rss version="2.0">
+	<channel>
+			<title>Magični zalogaj</title>
+			<link>https://magicnizalogaj.github.io/magicnizalogaj/index.html</link>
+			<description>Promene na našoj početnoj stranici</description>
+
+		<item>
+			<title>>Magični zalogaj | Kontakt</title>
+			<link>https://magicnizalogaj.github.io/magicnizalogaj/index.html#contact</link>
+			<description>Promene u vezi naših kontakt podataka</description>
+		</item>
+		<item>
+			<title>Magični zalogaj | Cenovnik</title>
+			<link>https://magicnizalogaj.github.io/magicnizalogaj/cenovnik.html</link>
+			<description>Promene u našem cenovniku</description>
+		</item>
+		<item>
+			<title>Magični zalogaj | Galerija</title>
+			<link>https://magicnizalogaj.github.io/magicnizalogaj/galerija.html</link>
+			<description>Promene u našoj galeriji slika</description>
+		</item>
+	</channel>
+	</rss>
