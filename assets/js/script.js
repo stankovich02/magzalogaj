@@ -64,6 +64,9 @@ $('#overlay').hide();
 }
 });
 });
+let currentDate = new Date();
+let currentYear = currentDate.getFullYear();
+document.querySelector("#year").innerHTML = currentYear;
 if(window.location.pathname == '/index.html' || window.location.pathname == '/magzalogaj/index.html' || window.location.pathname == '/magzalogaj/'){
   if(window.innerWidth > 1150){
     let whyuss = document.querySelectorAll('.why-order-us-item');
